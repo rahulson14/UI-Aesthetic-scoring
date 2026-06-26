@@ -84,18 +84,6 @@ A standalone dashboard using **Qwen3-VL-235B** (via Ollama Cloud) to provide a z
 
 ---
 
-## 🎓 Authors
-**B.Tech Computer Science & Engineering (Batch 2022-2026)**
-Central Institute of Technology Kokrajhar (CITK)
-- Jahnavi Roy (Roll No. 202202021050)
-- Rahul Son Boro (Roll No. 202202022092)
-- Deepali Borgayary (Roll No. 202202022095)
-
-**Under the Guidance of:**
-- Dr. Ranjan Maity (Associate Professor, Dept. of CSE, CITK)
-
----
-
 ## 🔮 Future Work
 - Integrating advanced federated strategies like FedProx or Per-FedAvg to improve extreme rating predictions.
 - Deploying the federated framework in a real distributed network to evaluate latency and asynchronous training dynamics.
